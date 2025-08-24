@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am working as a Full Stack Developer about open-banking solutions. <br>Mostly using .Net technologies but also I can use Java, Python, React.<br>I want to improve myself about AI and working for it.  <br>I am working on API technologies and Microservice architecture.<br>If you want to talk about new technologies text me on Linkedin or Instagram.<br>And also dreams doesn't work unless you do :)
+👋 Hey, I’m Ömer!
+I’m a Full Stack Developer working on open-banking solutions, mostly with .NET, but I also enjoy building things with Java, Python, and React.
+
+🚀 Recently, I’ve been diving deep into API technologies and Microservice architecture. On the side, I’m learning more about AI and exploring how it can be applied in real-world projects.
+
+💡 I like trying out new technologies, sharing what I learn, and keeping my projects practical.
+If you want to chat about tech, feel free to reach out on LinkedIn or Instagram.
+
+✨ Dreams don’t work unless you do.
 
 
 ## 🌐 Socials:
